@@ -1,1 +1,5 @@
 # learn-python
+
+## Setup
+
+TODO
